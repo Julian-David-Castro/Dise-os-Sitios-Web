@@ -1,6 +1,6 @@
-cuerpo {
-  background-color: "#005883"
-  color de fondo: fijo;
-  posición de fondo: 20% 20%;
-  repetición de fondo: sin repetición;
+p {borde: #005883}
+pags {
+  borde derecho: #005883;
+  borde izquierdo: #005883;
+  imagen de borde: ninguno;
 }
